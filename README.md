@@ -13,6 +13,12 @@
 
 ---
 
+## 게임 플레이 영상
+
+[https://drive.google.com/file/d/1zVP5CJic47nKe3P2AmsGjih1phkzlnAn/view?usp=sharing]
+
+---
+
 ## 🎮 게임 플레이
 
 텍스트로 출력되는 상황을 읽고, 번호를 입력하여 행동을 선택합니다.
